@@ -4,13 +4,13 @@
 - M.S. Business Analytics, Sacramento State University  
 - B.S. International Relations, University of California, Davis
 
-## Relevant Coursework
+### Relevant Coursework
 Programming for Business Analytics • Data Management
 •Data Visualization and Communication • Decision Analytics
 •Data Analytics • Data Mining •Machine Learning
 
 
-### Work Experience 
+## Work Experience 
 #### Business Analyst, Fragomen, Del Rey, Bernsen & Loewy LLP 
 - Gained hands-on experience in paralegal duties and client services
 - Logged, Queried, and Reviewed data reports
@@ -32,4 +32,5 @@ Programming for Business Analytics • Data Management
 - Consistently ranked Top 10 in efficiency and accuracy
 
 
-### Projects 
+## Projects 
+This is a sample [project](https://github.com/bpa412/bpa412.github.io/blob/main/AndreasNursery.xlsx). 

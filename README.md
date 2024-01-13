@@ -33,4 +33,11 @@ Programming for Business Analytics • Data Management
 
 
 ## Projects 
-This is a sample [project](https://github.com/bpa412/bpa412.github.io/blob/main/AndreasNursery.xlsx). 
+### Research Trends and Analysis on Healthcare  
+A [study](https://docs.google.com/presentation/d/1dPbxlTxp6g1vLaNpuEEbJcxVbgaGg9kmRwBQroV87qk/edit#slide=id.p1) into true figures in a cross-sectional dataset of the Australian Health Survey, exploring variables such as age, income, and insurance demographics. Skills practiced include data visualization, data validation, and factor analysis. 
+
+### Andrea's Nursery 
+A [setup](https://docs.google.com/presentation/d/1O3dpIUbSWef_CgkOK5gD5a6_RPR8HWg90qo0ZSxBCxU/edit) of a simple database for a small business. Involves use of ER Diagrams, Relational schemas, and Advanced Excel functions including Pivot tables, Power Pivot, VLOOKUP, table manipulation, and IF Functions). 
+
+
+

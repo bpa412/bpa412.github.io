@@ -17,7 +17,7 @@ Programming for Business Analytics • Data Management
 - Maintained and queried reports 
 - Practiced valuable skills in project management, teamwork, and data analysis
 
-#### Product Support, Protiviti (Contract)
+#### Product Support, Protiviti  
 - Supported business development efforts
 - Documented prospect interactions using Salesforce
 - Practiced agile principles with insight into software development lifecycle SDLC

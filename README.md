@@ -1,4 +1,5 @@
-# Data Scientist
+# Business Analyst 
+
 
 ## Education
 - M.S. Business Analytics, Sacramento State University  

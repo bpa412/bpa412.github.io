@@ -21,7 +21,7 @@ A [setup](https://docs.google.com/presentation/d/1O3dpIUbSWef_CgkOK5gD5a6_RPR8HW
 #### Business Analyst, Fragomen, Del Rey, Bernsen & Loewy LLP 
 - Executed paralegal duties and engaged in client services
 - Maintained and queried reports 
-- Practiced valuable skills in project management, teamwork, and data analysis
+- Practiced valuable skills in [project management](https://github.com/bpa412/bpa412.github.io/blob/main/TPM.pdf), teamwork, and data analysis
 
 #### Product Support, Protiviti  
 - Supported business development efforts

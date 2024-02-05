@@ -26,7 +26,7 @@ A [setup](https://docs.google.com/presentation/d/1O3dpIUbSWef_CgkOK5gD5a6_RPR8HW
 #### Product Support, Protiviti  
 - Supported business development efforts
 - Documented prospect interactions using Salesforce
-- Practiced agile principles with insight into software development lifecycle SDLC
+- Practiced [agile](https://github.com/bpa412/bpa412.github.io/blob/main/Professional%20Scrum%20Master%20I.pdf) principles with insight into software development lifecycle SDLC
 
 #### Operations Coordinator, Ajilon
 - Drove operational success including facilities maintenance, resource and supply management, logistics coordination, and front desk duties
